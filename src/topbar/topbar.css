@@ -1,0 +1,35 @@
+.topbar {
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avatar {
+    width: 55px;
+    background-color: rgb(38, 77, 109);
+    border-radius: 100%;
+    border: 3px solid white;
+}
+.systemInfo {
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.clock {
+    display: flex;
+    font-weight: 500;
+    align-items: baseline;
+}
+.time { 
+    font-size: 1.5rem;
+    margin-right: 3px;
+}
+.meridiem {
+    font-size: 1rem;
+}
+.wifi {
+    
+    width: 28px;
+    height: 28px;
+}
