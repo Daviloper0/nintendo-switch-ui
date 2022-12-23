@@ -1,5 +1,5 @@
 import './menu.css';
-import {TopBar} from './topbar/topbar.js'
+import { TopBar } from './topbar/topbar.js'
 
 function Menu() {
   return (
